@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on: ZumaPets<br>🌱 I’m currently learning Python / CSS / HTML<br>📫 How to reach me: danilloemerson0@gmail.com</p>
+<p align="left">📗 I’m currently working on: ZumaPets<br>🌱 I’m currently learning Python / CSS / HTML<br>📫 How to reach me: danilloemerson0@gmail.com</p>
 
 ###
 
@@ -29,9 +29,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=E-Danillo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=E-Danillo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=E-Danillo&radius=16&theme=vue&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=E-Danillo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=E-Danillo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=E-Danillo&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
