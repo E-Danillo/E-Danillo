@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📗 I’m currently working on: ZumaPets<br>🌱 I’m currently learning Python / CSS / HTML<br>📫 How to reach me: danilloemerson0@gmail.com</p>
+<p align="left">📗 I’m currently working on: Calculadora-Tkinter<br>🌱 I’m currently learning Python / CSS / HTML<br>📫 How to reach me: danilloemerson0@gmail.com</p>
 
 ###
 
