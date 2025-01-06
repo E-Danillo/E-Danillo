@@ -2,10 +2,6 @@
 
 ###
 
-<h2 align="left">Explorando o mundo do desenvolvimento com a Ciência da Computação</h2>
-
-###
-
 <p align="left">📗 I’m currently working on: Calculadora-Tkinter<br>🌱 I’m currently learning Python / CSS / HTML<br>📫 How to reach me: danilloemerson0@gmail.com</p>
 
 ###
