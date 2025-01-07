@@ -31,9 +31,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://24.media.tumblr.com/3153053c5be586d40b4149c5bf5c5001/tumblr_mmnfhzEp3r1r8n01uo1_500.gif"  />
-</div>
-
-###
