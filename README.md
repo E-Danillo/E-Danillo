@@ -32,8 +32,4 @@
   <img src="https://profile-counter.glitch.me/E-Danillo /count.svg?"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/E-Danillo /E-Danillo /output/snake.svg" alt="Snake animation" />
-
-###
