@@ -1,12 +1,12 @@
-<h1 align="left">Olá, Sou Danillo!</h1>
+<h1 align="left">Olá, Sou Emerson Danillo!</h1>
 
 ###
 
-<p align="left">🌱 I’m currently learning JAVA / CSS / HTML<br>📫 How to reach me: danilloemerson0@gmail.com</p>
+<p align="left">🌱 Eu estou aprendendo JAVA / CSS / HTML<br>📫 Contato: danilloemerson0@gmail.com</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu trabalho com:</h2>
 
 ###
 
