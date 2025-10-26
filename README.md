@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 Eu estou aprendendo JAVA / CSS / HTML<br>📫 Contato: danilloemerson0@gmail.com</p>
+<p align="left">🌱 Atualmente estou aprendendo REACT<br>📫 Contato: danilloemerson0@gmail.com</p>
 
 ###
 
