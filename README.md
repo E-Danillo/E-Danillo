@@ -19,3 +19,9 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
+![HTML](https://img.shields.io/badge/HTML-100%25-e34c26)
+![CSS](https://img.shields.io/badge/CSS-90%25-1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-f7df1e)
+![Python](https://img.shields.io/badge/Python-70%25-3776ab)
+![React](https://img.shields.io/badge/React-40%25-61dafb)
