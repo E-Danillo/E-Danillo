@@ -13,7 +13,7 @@ I love turning ideas into real projects using modern web technologies.
 -  **JavaScript**
 -  **React**
 -  **Python**
--  **Java** (basic)
+-  **Java** 
 
 ### 🔹 Tools
 -  **Git & Version Control**
