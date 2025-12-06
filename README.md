@@ -4,11 +4,9 @@ I love turning ideas into real projects using modern web technologies.
 
 ---
 
-## 🟢 **Tech Stack**
-### Languages & Frameworks
--  **HTML**
--  **CSS**
--  **JavaScript**
+## 🟢 **Languages & Frameworks**
+-  **HTML/CSS**
+-  **JavaScript(ES6+)**
 -  **React**
 -  **Python**
 
