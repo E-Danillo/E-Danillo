@@ -1,14 +1,14 @@
-### Hey, I’m **Emerson Danillo ;)**
-Web developer in progress — currently on my 4rd semester of Computer Science — forging clean, functional and interactive interfaces.  
-I love turning ideas into real projects using modern web technologies.
+### Olá, eu sou **Emerson Danillo ;)**
+Desenvolvedor web em formação — atualmente no 4º semestre de Ciências da Computação — construindo interfaces limpas, funcionais e interativas.  
+Adoro transformar ideias em projetos reais usando tecnologias web modernas.
 
 ---
 
-## 🟢 **Languages & Frameworks**
--  **HTML/CSS**
--  **JavaScript (ES6+)**
--  **React**
--  **Python**
+## 🟢 **Linguagens & Frameworks**
+- **HTML/CSS**
+- **JavaScript (ES6+)**
+- **React**
+- **Python**
 
-## 🟢 **Goals**
-Become a reliable full-stack developer capable of creating scalable and well-structured applications — one commit at a time.
+## 🟢 **Objetivos**
+Tornar-me um desenvolvedor front-end confiável, capaz de criar aplicações escaláveis e bem estruturadas — um commit de cada vez.
