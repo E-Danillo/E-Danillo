@@ -1,6 +1,5 @@
 ### Olá, eu sou **Emerson Danillo ;)**
 Desenvolvedor web em formação — atualmente no 4º semestre de Ciências da Computação — construindo interfaces limpas, funcionais e interativas.  
-Adoro transformar ideias em projetos reais usando tecnologias web modernas.
 
 ---
 
