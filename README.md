@@ -6,7 +6,7 @@ I love turning ideas into real projects using modern web technologies.
 
 ## 🟢 **Languages & Frameworks**
 -  **HTML/CSS**
--  **JavaScript(ES6+)**
+-  **JavaScript (ES6+)**
 -  **React**
 -  **Python**
 
