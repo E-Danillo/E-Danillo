@@ -15,13 +15,6 @@ Construindo interfaces limpas, funcionais e interativas, um commit de cada vez.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🟢 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=E-Danillo&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
