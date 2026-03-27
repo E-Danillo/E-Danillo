@@ -22,7 +22,7 @@ Construindo interfaces limpas, funcionais e interativas, um commit de cada vez.
 
 - 💼 Busco **estágio** em desenvolvimento web front-end
 - 🔬 Aberto a **Iniciação Científica** na área de computação
-- 📚 Aprendendo **back-end** com Python e Java (em progresso)
+- 📚 Foco atual em front-end com React — back-end é o próximo passo
 
 ---
 
