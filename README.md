@@ -1,11 +1,11 @@
-# Olá, eu sou Emerson Danillo 👋
+# Olá, eu sou Emerson Danillo 
 
 Desenvolvedor web em formação — 4º semestre de Ciência da Computação na UNIMA.
 Construindo interfaces limpas, funcionais e interativas, um commit de cada vez.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🟢 Tecnologias & Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +17,7 @@ Construindo interfaces limpas, funcionais e interativas, um commit de cada vez.
 
 ---
 
-## 📊 GitHub Stats
+## 🟢 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=E-Danillo&theme=tokyonight&hide_border=true" />
@@ -25,11 +25,11 @@ Construindo interfaces limpas, funcionais e interativas, um commit de cada vez.
 
 ---
 
-## 🎯 Objetivos
+## 🟢 Objetivos
 
 - 💼 Busco **estágio** em desenvolvimento web (front-end ou full stack)
 - 🔬 Aberto a **Iniciação Científica** na área de computação
-- 📚 Aprendendo **back-end** com Node.js e Java para me tornar full stack
+- 📚 Aprendendo **back-end** com Python e Java para me tornar full stack
 
 ---
 
