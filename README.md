@@ -20,9 +20,9 @@ Construindo interfaces limpas, funcionais e interativas, um commit de cada vez.
 
 ## 🟢 Objetivos
 
-- 💼 Busco **estágio** em desenvolvimento web (front-end ou full stack)
+- 💼 Busco **estágio** em desenvolvimento web front-end
 - 🔬 Aberto a **Iniciação Científica** na área de computação
-- 📚 Aprendendo **back-end** com Python e Java para me tornar full stack
+- 📚 Aprendendo **back-end** com Python e Java (em progresso)
 
 ---
 
