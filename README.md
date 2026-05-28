@@ -90,14 +90,6 @@ Atualmente estou aprofundando meus estudos em:
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=E-Danillo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E-Danillo&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Contato
 
 - LinkedIn: [Emerson Danillo](https://www.linkedin.com/in/emerson-danillo/)
