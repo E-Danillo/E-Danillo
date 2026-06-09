@@ -36,46 +36,6 @@ Atualmente venho desenvolvendo projetos práticos com **HTML, CSS, JavaScript, R
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🎮 Dashboard Gamificado
-Gerenciador de tarefas desenvolvido em React, com sistema de XP, níveis, conquistas, prioridades e persistência de dados.
-
-**Tecnologias:** React, CSS, JavaScript, LocalStorage  
-🔗 [Ver projeto](https://e-danillo.github.io/dashboard-de-tarefas-gamificado-react/)  
-💻 [Código](https://github.com/E-Danillo/dashboard-de-tarefas-gamificado-react)
-
----
-
-### 🚗 Car Explorer
-Aplicação que consome uma API pública para buscar marcas e modelos de veículos em tempo real.
-
-**Tecnologias:** React, API FIPE, CSS, JavaScript  
-🔗 [Ver projeto](https://e-danillo.github.io/car-explorer-react/)  
-💻 [Código](https://github.com/E-Danillo/car-explorer-react)
-
----
-
-### 👨‍💻 Portfólio Pessoal
-Portfólio desenvolvido em React com backend em Node.js/Express para envio seguro de mensagens pelo formulário de contato.
-
-O projeto utiliza backend intermediário, variáveis de ambiente, CORS, deploy do frontend no GitHub Pages e deploy do backend no Render.
-
-**Tecnologias:** React, Vite, Node.js, Express, Render, GitHub Pages  
-🔗 [Ver projeto](https://e-danillo.github.io/danillo-portfolio/)  
-💻 [Código](https://github.com/E-Danillo/danillo-portfolio)
-
----
-
-### 🍳 Quebrando o Gelo e o Ovo
-Projeto que sugere receitas com base nos ingredientes informados pelo usuário.
-
-**Tecnologias:** HTML, CSS, JavaScript  
-🔗 [Ver projeto](https://e-danillo.github.io/quebrando-o-gelo-e-o-ovo/)  
-💻 [Código](https://github.com/E-Danillo/quebrando-o-gelo-e-o-ovo)
-
----
-
 ## 📈 Em evolução
 
 Atualmente estou aprofundando meus estudos em:
